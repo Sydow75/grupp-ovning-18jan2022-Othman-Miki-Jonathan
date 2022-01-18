@@ -1,1 +1,2 @@
-# grupp-ovning-18jan2022
+# Othman, Miki, Jonathan övning 18 jan
+ Practice on git Desktop
